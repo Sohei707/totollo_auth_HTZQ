@@ -1,5 +1,8 @@
 "use strict";
-
+/*
+ すみません、何もわかりませんでした。
+ 一応コードレビューお願いいたしまっす。
+*/
 const fs = require("fs");
 const path = require("path");
 const webpack = require("webpack");
