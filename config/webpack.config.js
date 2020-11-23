@@ -1,7 +1,7 @@
 "use strict";
 /*
  すみません、何もわかりませんでした。
- 一応コードレビューお願いいたしまっす。
+ 一応コードレビューお願いいたします。
 */
 const fs = require("fs");
 const path = require("path");
