@@ -10,6 +10,7 @@ delete require.cache[require.resolve('./paths')];
 const REACT_ENV = process.env.REACT_APP_ENV;
 if (!REACT_ENV) {
   throw new Error(
+    'Test'
     'The REACT_ENV environment variable is required but was not specified.'
   );
 }
